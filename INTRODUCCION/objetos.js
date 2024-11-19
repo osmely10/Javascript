@@ -2,10 +2,10 @@ const persona = {
     nombre: 'carlos',
     edad: '27',
     correo: 'correo@correo.com',
-   suscripciones: {
+suscripciones: {
     web: true,
     correo: true
-   },
+},
 coloresFavoritos:['negro','rojo'],
 saludo: function () {
     alert('Hola!');
