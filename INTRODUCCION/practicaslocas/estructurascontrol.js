@@ -18,3 +18,21 @@ const edad=80;
     }else if(edad>=65){
         console.log('Es un anciano')
     }
+
+    //Bucles
+
+    for(let i=0;i<=4;i++){
+        console.log(i);
+    }
+
+    let contador=0
+    while(contador<=4){
+        console.log(contador)
+        contador++
+    }
+
+    let contar=0
+    do{
+        console.log(contar)
+        contar++
+    }while(contar<=4)
